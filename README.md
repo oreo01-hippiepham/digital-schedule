@@ -30,3 +30,5 @@
 </p>
 
 ## :floppy_disk: Database    
+
+## :round_pushpin: Algorithm    
