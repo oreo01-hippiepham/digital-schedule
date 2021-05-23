@@ -9,9 +9,10 @@
 :computer: Developed as the final project of the course "Object Oriented Programming, Algorithm and Data Structures" - VinUniversity     
 
 ## :brain: Our team:    
-        * Nguyen Dinh Cuong: UI, UX design, Front-end, Back-end   
-        * Pham Duc "Oreo-Hippie" Hiep: Database designer, Back-end   
-        * Dau Vu Dang "DVD" Khoi: Core algorithm  
+* Nguyen Dinh Cuong: UI, UX design, Front-end, Back-end   
+* Pham Duc "Oreo-Hippie" Hiep: Database designer, Back-end   
+* Dau Vu Dang "DVD" Khoi: Core algorithm  
+
 ## Features:
 - 
     
