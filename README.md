@@ -30,6 +30,8 @@
 </p>
 
 ## :floppy_disk: Database design:   
+![image](https://user-images.githubusercontent.com/76086897/119266828-84e78580-bc16-11eb-8974-00a94f4daa46.png)
+
 
 ## :round_pushpin: Algorithm used for generating calendar:
 ![image](https://user-images.githubusercontent.com/84662605/119265813-464fcc00-bc12-11eb-82f9-a6b552e67d36.png)
