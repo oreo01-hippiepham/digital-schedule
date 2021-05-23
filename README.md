@@ -31,4 +31,4 @@
 
 ## :floppy_disk: Database design:   
 
-## :round_pushpin: Algorithm used for generating calendar
+## :round_pushpin: Algorithm used for generating calendar:
