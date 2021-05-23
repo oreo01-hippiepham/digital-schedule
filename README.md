@@ -17,8 +17,8 @@
 # Screenshots:
 <p align="center">
   
-      ![image](https://user-images.githubusercontent.com/84661482/119255047-d296ca80-bbe3-11eb-9e5a-fd929e5d4a03.png)
-
+![image](https://user-images.githubusercontent.com/84661482/119263707-5cf22500-bc0a-11eb-8c70-81eaa37ea9ce.png)
+  
 </p>
 
 
