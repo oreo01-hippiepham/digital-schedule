@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/84661482/119254719-26081900-bbe2-11eb-9ffb-31e31866a999.png)
 
-:bulb: A Java-based desktop application, created from scratch with no code plagiarism 😉, seasoned with a combination of CSS and MySQL.    
+:bulb: A Java-based desktop application, created from scratch with no plagiarism 😉, seasoned with a combination of CSS and MySQL.    
 
 :toolbox: The app allows users to input their busy schedule, and will automatically generate free timeslots for 2+ people to have a meeting of a specific duration.     
   
@@ -10,7 +10,7 @@
 
 ## :brain: Our team:    
 * Nguyen Dinh Cuong: Front-end & Back-end developer   
-* Pham Duc "Oreo-Hippie" Hiep: Database designer & Back-end developer   
+* Pham Duc "Oreo-Hippie" Hiep: Database designer & Back-end developer & Overlooking the entire project 
 * Dau Vu Dang "DVD" Khoi: Core algorithm designer
 
 ## :gear: Features:
