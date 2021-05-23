@@ -64,13 +64,21 @@ public class ControllerChoosingScreen implements Initializable {
         String currentTimeBlock = appointmentDuration.getValue();
         String currentTaskType = taskType.getValue();
 
+        String check = checkInsert1(currentTimeBlock);
+
+        if (!check.equals("true"))
+        {
+            warningLabel.setText(check);
+            return;
+        }
+        
         String currentStartTime = startTime.getText();
         String currentEndTime = endTime.getText();
 
         String boundedStartTime = appointmentDuration.getValue().substring(0,5);
         String boundedEndTime = appointmentDuration.getValue().substring(8,13);
 
-        String check = checkInsert(currentTaskName, currentTaskType, currentTimeBlock, currentStartTime, currentEndTime
+        check = checkInsert2(currentTaskName, currentTaskType, currentStartTime, currentEndTime
         , boundedStartTime, boundedEndTime);
 
         Scanner sc = new Scanner (reci_email);
@@ -141,17 +149,21 @@ public class ControllerChoosingScreen implements Initializable {
 
     }
 
-    public String checkInsert(String currentTaskName, String currentTaskType, String currentTimeBlock, String currentStartTime,
+    public String checkInsert1 (String currentTimeBlock)
+    {
+        if (currentTimeBlock == null)
+        {
+            return "Please choose a time block!";
+        }
+        return "true";
+    }
+
+    public String checkInsert2(String currentTaskName, String currentTaskType, String currentStartTime,
                               String currentEndTime, String boundedStartTime, String boundedEndTime)
     {
         if (currentTaskName.equals(""))
         {
             return "Please enter the appointment's name!";
-        }
-
-        if (currentTimeBlock == null)
-        {
-            return "Please choose a time block!";
         }
 
         if (checkTime(currentStartTime) || checkTime(currentEndTime) || compareTime(currentStartTime, currentEndTime) >= 0)
