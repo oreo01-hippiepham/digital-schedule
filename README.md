@@ -13,14 +13,14 @@
 * Pham Duc "Oreo-Hippie" Hiep: Database designer, Back-end   
 * Dau Vu Dang "DVD" Khoi: Core algorithm  
 
-## Features:
+## :gear: Features:
 - Log in and registration required
 - Create tasks and put them on your daily schedule.
 - Edit your task (name, task type, start time, end time, etc)
 - Delete your task
 - Generate a meeting with other people using an efficient algorithm
     
-## Screenshots:
+## :camera_flash: Screenshots:
 <p align="center">
   
 ![image](https://user-images.githubusercontent.com/84661482/119263707-5cf22500-bc0a-11eb-8c70-81eaa37ea9ce.png)
