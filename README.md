@@ -1,4 +1,4 @@
-# :date:Cambridge Digital Scheduler
+# :date:Cambridge Digital Scheduler - by LadyKillas, VinUniversity
 
 ![image](https://user-images.githubusercontent.com/84661482/119254719-26081900-bbe2-11eb-9ffb-31e31866a999.png)
 
@@ -14,5 +14,6 @@
         - Dau Vu Dang Khoi: Core algorithm  
     
 
+![image](https://user-images.githubusercontent.com/84661482/119254994-7c298c00-bbe3-11eb-8947-9d148f728f4a.png)
 
 
