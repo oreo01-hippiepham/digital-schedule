@@ -10,8 +10,8 @@
 
 :brain: Our team:    
         - Nguyen Dinh Cuong: UI, UX design, Front-end, Back-end   
-        - Pham Duc Hiep: Database designer, Back-end   
-        - Dau Vu Dang Khoi: Core algorithm  
+        - Pham Duc "Oreo-Hippie" Hiep: Database designer, Back-end   
+        - Dau Vu Dang "DVD" Khoi: Core algorithm  
     
 # Screenshots:
 <p align="center">
