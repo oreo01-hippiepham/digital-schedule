@@ -15,7 +15,9 @@
     
 # Screenshots:
 <p align="center">
+  
     ![image](https://user-images.githubusercontent.com/84661482/119255047-d296ca80-bbe3-11eb-9e5a-fd929e5d4a03.png)
+  
 </p>
 
 
