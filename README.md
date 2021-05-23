@@ -35,8 +35,8 @@
 
 ## :round_pushpin: Algorithm used for generating calendar:
 ![image](https://user-images.githubusercontent.com/84661482/119267158-a09f5b80-bc17-11eb-9d6c-be8e98826fb9.png)
-- Create a two-dimensional linked list, which represents the busy time of a person, each inner linked list is a busy time block.
-- First, pop two linked lists to merge them to one busy calendar. After that, pop one linked list from the main linked list to continuously merge to be one busy calendar unitl the main linked list is empty.
-- Consider the last busy calendar as the general busy calendar of all people.
-- From the last busy calendar, it is possible to set up meeting schedule for everyone.
+- Every person will have a daily schedule, which is represented by a two dimensional linked list. Each inner linked list is a busy time block, which represents by an array of String.
+- First, we store all schedules in a queue.
+- Pop 2 schedules from the queue and merge them into one. After that, pop one schedule from the queue to continuously merge it to the one we have merged before until the queue is empty.
+- After getting the final common busy schedule of every person, it is possible to set up a meeting using the available time blocks.
 
