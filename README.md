@@ -21,8 +21,9 @@
 - Generate a meeting with other people using an efficient algorithm
     
 ## :camera_flash: Screenshots:
-<p align="center">
-    <img width="444" height="312" src="https://user-images.githubusercontent.com/84661482/119263707-5cf22500-bc0a-11eb-8c70-81eaa37ea9ce.png">
+<p align="left">
+    <img width="444" height="312" src="https://user-images.githubusercontent.com/84661482/119264175-3cc36580-bc0c-11eb-8705-df919c537d4d.png">
+    
 </p>
 
 
