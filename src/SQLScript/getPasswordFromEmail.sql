@@ -1,0 +1,1 @@
+SELECT password FROM credentials WHERE email_login = '%s'

@@ -1,0 +1,22 @@
+.buttons:hover
+{
+    -fx-cursor: hand;
+}
+
+.table-view{
+    -fx-background-color: #FFFFFF;
+}
+
+.table-view .column-header-background{
+    -fx-background-color:  #A3C1AD;
+}
+
+.table-view .column-header, .table-view .filler{
+    -fx-background-color:  #A3C1AD;
+}
+
+.table-view .column-header .label{
+    -fx-text-fill: white;
+}
+
+

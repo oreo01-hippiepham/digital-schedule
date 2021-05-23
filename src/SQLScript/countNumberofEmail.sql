@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM credentials WHERE email_login = '%s'
