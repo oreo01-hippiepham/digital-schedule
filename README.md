@@ -23,7 +23,7 @@
 ## :camera_flash: Screenshots:
 <p align="left">
     <img width="533" height="374" src="https://user-images.githubusercontent.com/84661482/119264175-3cc36580-bc0c-11eb-8705-df919c537d4d.png">
-    <img width="444" height="312" src="https://user-images.githubusercontent.com/84661482/119264211-611f4200-bc0c-11eb-8991-0ffc17b051c9.png">
+    <img width="533" height="374" src="https://user-images.githubusercontent.com/84661482/119264211-611f4200-bc0c-11eb-8991-0ffc17b051c9.png">
 </p>
 
 
