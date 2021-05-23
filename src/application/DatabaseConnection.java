@@ -10,7 +10,9 @@ public class DatabaseConnection {
         String databaseName = "mock_calendar";
         String databaseUser = "root";
         String databasePassword = "Xnovastrike1";
-        String url = "jdbc:mysql://172.16.16.200:3306/" + databaseName;
+
+        String url = "jdbc:mysql://172.16.16.219:3306/" + databaseName;
+
         try
         {
             Class.forName("com.mysql.cj.jdbc.Driver");
