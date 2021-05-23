@@ -34,7 +34,7 @@
 
 
 ## :round_pushpin: Algorithm used for generating calendar:
-![image](https://user-images.githubusercontent.com/84662605/119265813-464fcc00-bc12-11eb-82f9-a6b552e67d36.png)
+![image](https://user-images.githubusercontent.com/84661482/119267158-a09f5b80-bc17-11eb-9d6c-be8e98826fb9.png)
 - Create a two-dimensional linked list. Each linked list in the main linked list is the busy calendar of one person.
 - First, pop two linked lists to merge them to one busy calendar. After that, pop one linked list from the main linked list to continuously merge to be one busy calendar unitl the main linked list is empty.
 - Consider the last busy calendar as the general busy calendar of all people.
