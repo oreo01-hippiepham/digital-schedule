@@ -16,14 +16,14 @@
 ## :gear: Features:
 - Log in and registration required
 - Create tasks and put them on your daily schedule.
-- Edit your task (name, task type, start time, end time, etc)
-- Delete your task
+- Edit your tasks (name, task type, start time, end time, etc)
+- Delete your tasks
 - Generate a meeting with other people using an efficient algorithm
     
 ## :camera_flash: Screenshots:
 <p align="left">
     <img width="444" height="312" src="https://user-images.githubusercontent.com/84661482/119264175-3cc36580-bc0c-11eb-8705-df919c537d4d.png">
-    
+    <img width="444" height="312" src="https://user-images.githubusercontent.com/84661482/119264211-611f4200-bc0c-11eb-8991-0ffc17b051c9.png">
 </p>
 
 
